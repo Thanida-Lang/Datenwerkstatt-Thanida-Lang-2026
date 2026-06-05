@@ -18,10 +18,11 @@ Mein Ziel ist eine Ausbildung zur Fachinformatikerin für Daten- und Prozessanal
 - Kundenservice und Organisation
 
 **2015‑2022 | Mitinhaberin & Betriebsleiterin**   
+Familiengeführtes thailändisches Restaurant  
 - Eigenständige Buchführung mit Excel: Einnahmen‑Ausgaben‑Protokolle, Steuer‑ und Umsatzberechnungen  
 - Einsatz von Word und PowerPoint für Speisekarten, Angebote und kleine Präsentationen  
-- Organisation von Arbeitsabläufen, Personal‑ und Dienstplanung
-
+- Organisation von Arbeitsabläufen
+  
 **2015‑2016 | Rezeptionistin / Servicemitarbeiterin**  
 Norwegian Cruise Line – Schiff *Norwegian Getaway*  
 - Gute Kommunikationsfähigkeiten auf Englisch mit Gästen und Kollegen vieler Nationalitäten  
@@ -40,18 +41,18 @@ Programmiersprachen
 
 #### Office & Werkzeuge
 - Excel
-- HitHub
+- GitHub
 - VS Code
 
 
 #### Projekte
-Sales Data Analysis
+- Sales Data Analysis
 
 ### Sprachen:
 - **Deutsch:** Niveau B2  
 - **Englisch:** Sehr gut in Wort und Schrift   
 - **Thai:** Muttersprache
-- 
+
 #### Bildung
 - Selbststudium Python und Datenanalyse seit 2026
   
@@ -65,7 +66,7 @@ Sales Data Analysis
   Benchamaratrangsarit‑Schule, Thailand /2003-2005
   
 ### 📬 Kontakt
-E‑Mail: [thanidas.lang@gmail.com]  
-Telefon: [017646604826]  
-GitHub: https://github.com/[Thanida-Lang]
+- E‑Mail:  thanidas.lang@gmail.com  
+- Telefon:  017646604826  
+- GitHub:  https://github.com/Thanida-Lang
 
