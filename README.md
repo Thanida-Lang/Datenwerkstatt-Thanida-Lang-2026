@@ -6,9 +6,12 @@ Start   : August 2026 (nach Vereinbarung)
 ---
 
 ### Über mich
-Ich interessiere mich für Datenanalyse, strukturierte Arbeitsweisen und die Optimierung von Prozessen.
-Durch meine beruflichen Erfahrungen im Dienstleistungsbereich sowie mein Selbststudium in Python und Datenverarbeitung habe ich erste praktische Kenntnisse aufgebaut.
-Mein Ziel ist eine Ausbildung zur Fachinformatikerin für Daten- und Prozessanalyse, um diese Fähigkeiten professionell weiterzuentwickeln.
+Ich habe Erfahrung in unserem kleinen Familienrestaurant gesammelt, wo ich administrative Aufgaben sowie die Bearbeitung von geschäftlichen Unterlagen übernommen habe. Dabei habe ich gelernt, verantwortungsbewusst, sorgfältig und strukturiert zu arbeiten.
+Durch meinen Hintergrund im Bereich Wirtschaftsrecht habe ich ein Verständnis für betriebliche Abläufe und prozessorientiertes Denken entwickelt. Diese Erfahrungen haben mein Interesse daran geweckt, wie Daten und Technologien genutzt werden können, um Prozesse effizienter zu gestalten und fundierte Entscheidungen zu unterstützen.
+Derzeit erweitere ich meine IT-Kenntnisse im Selbststudium, insbesondere im Bereich Python und grundlegender Datenanalyse. Obwohl ich noch am Anfang meines Weges in der IT stehe, bin ich lernbereit, motiviert und arbeite mich gerne in neue Themengebiete ein.
+Ich freue mich darauf, meine bisherigen Erfahrungen mit technischem Wissen zu verbinden und mich im Rahmen einer Ausbildung zur Fachinformatikerin für Daten und Prozessanalyse fachlich und persönlich weiterzuentwickeln.
+
+
 
 ### 💼 Berufserfahrung & Lebenslauf
 
