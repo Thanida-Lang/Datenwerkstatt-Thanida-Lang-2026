@@ -6,9 +6,9 @@ Start   : August 2026 (nach Vereinbarung)
 ---
 
 ### Über mich
-Ich habe Erfahrung in unserem kleinen Familienrestaurant gesammelt, wo ich administrative Aufgaben sowie die Bearbeitung von geschäftlichen Unterlagen übernommen habe. Dabei habe ich gelernt, verantwortungsbewusst, sorgfältig und strukturiert zu arbeiten.
 Durch meinen Hintergrund im Bereich Wirtschaftsrecht habe ich ein Verständnis für betriebliche Abläufe und prozessorientiertes Denken entwickelt. Diese Erfahrungen haben mein Interesse daran geweckt, wie Daten und Technologien genutzt werden können, um Prozesse effizienter zu gestalten und fundierte Entscheidungen zu unterstützen.
-Derzeit erweitere ich meine IT-Kenntnisse im Selbststudium, insbesondere im Bereich Python und grundlegender Datenanalyse. Obwohl ich noch am Anfang meines Weges in der IT stehe, bin ich lernbereit, motiviert und arbeite mich gerne in neue Themengebiete ein.
+Ich habe Erfahrung in unserem kleinen Familienrestaurant gesammelt, wo ich administrative Aufgaben sowie die Bearbeitung von geschäftlichen Unterlagen übernommen habe. Dabei habe ich gelernt, verantwortungsbewusst, sorgfältig und strukturiert zu arbeiten.
+Derzeit erweitere ich meine IT-Kenntnisse im Selbststudium, insbesondere im Bereich SQL und grundlegender Datenanalyse. Obwohl ich noch am Anfang meines Weges in der IT stehe, bin ich lernbereit, motiviert und arbeite mich gerne in neue Themengebiete ein.
 Ich freue mich darauf, meine bisherigen Erfahrungen mit technischem Wissen zu verbinden und mich im Rahmen einer Ausbildung zur Fachinformatikerin für Daten und Prozessanalyse fachlich und persönlich weiterzuentwickeln.
 
 
@@ -23,13 +23,7 @@ Ich freue mich darauf, meine bisherigen Erfahrungen mit technischem Wissen zu ve
 **2015‑2022 | Mitinhaberin & Betriebsleiterin**   
 Familiengeführtes thailändisches Restaurant  
 - Eigenständige Buchführung mit Excel: Einnahmen‑Ausgaben‑Protokolle, Steuer‑ und Umsatzberechnungen  
-- Einsatz von Word und PowerPoint für Speisekarten, Angebote und kleine Präsentationen  
 - Organisation von Arbeitsabläufen
-  
-**2015‑2016 | Rezeptionistin / Servicemitarbeiterin**  
-Norwegian Cruise Line – Schiff *Norwegian Getaway*  
-- Gute Kommunikationsfähigkeiten auf Englisch mit Gästen und Kollegen vieler Nationalitäten  
-- Hohe Belastbarkeit, Serviceorientierung und sorgfältiges Arbeiten unter wechselnden Bedingungen
 
 
 ###  Technische Kenntnisse 
@@ -45,7 +39,7 @@ Programmiersprachen
 #### Office & Werkzeuge
 - Excel
 - GitHub
-- VS Code
+- SQL
 
 
 #### Projekte
@@ -57,7 +51,7 @@ Programmiersprachen
 - **Thai:** Muttersprache
 
 #### Bildung
-- Selbststudium Python und Datenanalyse seit 2026
+- Selbststudium SQL und Python seit 2026
   
 - Master of Business Law (LL.M.)
   Assumption University, Thailand /2010-2014
